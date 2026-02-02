@@ -1,0 +1,11 @@
+#container
+{
+    border: 2px solid black;
+}
+
+.third
+{
+    border: 1px solid red;
+    width: calc(100% / 3 - 2px)
+    display: inline-block;
+}
